@@ -2,7 +2,7 @@
 
 ¿Calcule índice de dominancia del genero Cecropia en el parque Mirador Sur, Santo Domingo, Republica Dominicana?
 
-¿Determine el índice Simpson del genero Ficus en dicho lugar?
+¿Determine el índice Simpson del genero Ficus en dicho lugar ?
 
 ¿Cuál es la especie más abúndate entre los géneros de Ficus y Cecropia en dicho lugar ?
 
