@@ -1,10 +1,18 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ...xxxxx
+¿Calcule índice de dominancia del genero Cecropia en el parque Mirador Sur, Santo Domingo, Republica Dominicana?
 
-* ...Pregunta de pruebaaaa
+¿Determine el índice Simpson del genero Ficus en dicho lugar?
 
-* ...
+¿Cuál es la especie más abúndate entre los géneros de Ficus y Cecropia en dicho lugar ?
+
+¿Cuál es el sustrato preferible entre los géneros Ficus y Cecropia en dicho lugar? 
+
+
+
+
+
+
 
 # Base común
 
