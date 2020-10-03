@@ -1,8 +1,8 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ...
+* ...xxxxx
 
-* ...
+* ...Pregunta de prueba
 
 * ...
 
