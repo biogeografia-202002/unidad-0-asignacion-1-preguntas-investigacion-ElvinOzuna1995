@@ -6,6 +6,7 @@
 - ¿Se detectan especies asociadas dentro de mi familia seleccionada?
 - ¿Existe asociación entre variables ambientales/atributos? ¿Cuáles variables?             
  Diversidad
+ 
  Según los análisis de estimación de riqueza, ¿está suficientemente representada mi   familia? Consideremos como buena representación un 85%
  - ¿Existe asociación de la diversidad alpha con variables ambientales/atributos? ¿Con cuáles?
 - ¿Existe contribución local o por alguna especie a la diversidad beta?
