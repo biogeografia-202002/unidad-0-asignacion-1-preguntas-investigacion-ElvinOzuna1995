@@ -2,17 +2,21 @@
    
   La familia que me corresponde es Moraceae  
    
-   Medición de asociación:
-- ¿Se detectan especies asociadas dentro de mi familia seleccionada?
-- ¿Existe asociación entre variables ambientales/atributos? ¿Cuáles variables?             
+* Medición de asociación:
+    * ¿Se detectan especies asociadas dentro de mi familia seleccionada?
+    * ¿Existe asociación entre variables ambientales/atributos? ¿Cuáles variables?             
  
- Diversidad
+* Diversidad
  
- Según los análisis de estimación de riqueza, ¿está suficientemente representada mi   familia? Consideremos como buena representación un 85%
- - ¿Existe asociación de la diversidad alpha con variables ambientales/atributos? ¿Con cuáles?
-- ¿Existe contribución local o por alguna especie a la diversidad beta?
+    * Según los análisis de estimación de riqueza, ¿está suficientemente representada mi familia? Consideremos como buena representación un 85%
+    * ¿Existe asociación de la diversidad alpha con variables ambientales/atributos? ¿Con cuáles?
+    * ¿Existe contribución local o por alguna especie a la diversidad beta?
 
+* Ecología espacial
 
+   *¿Alguna(s) especies de mi familia presenta(n) patrón aglomerado? 
+   *¿Cuál(es)? ¿Se asocia con alguna variable?
+   *¿Predicen bien la ocurrencia de dicha(s) especie(s) los modelos de distribución de especies (SDM)?
 
 
 
